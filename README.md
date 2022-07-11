@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/badreddine-mouhassine-6a643719a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MOUHASSINE-badreddine&theme=prussian&hide_border=true&background=DD000000)](https://git.io/streak-stats)
 <!--
 **MOUHASSINE-badreddine/MOUHASSINE-Badreddine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="right" alt="Coding" width="400" src="https://gifyu.com/image/SKZPr">
