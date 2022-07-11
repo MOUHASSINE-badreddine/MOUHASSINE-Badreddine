@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="Coding" width="400" src="https://s8.gifyu.com/images/Hi-Im-Badreddine.gif">
+<img align="center" alt="Me"  src="https://s8.gifyu.com/images/Hi-Im-Badreddine.gif">
 
 
 <!--
