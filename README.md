@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://gifyu.com/image/SKZPr)](https://github.com/MOUHASSINE-badreddine)
+<img align="right" alt="Coding" width="400" src="https://gifyu.com/image/SKZPr">
 
 
 <!--
