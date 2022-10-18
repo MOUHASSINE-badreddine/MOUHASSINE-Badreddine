@@ -1,4 +1,4 @@
-<img align="center" alt="Me"  src="https://s8.gifyu.com/images/Hi-Im-Badreddine.gif">
+<img align="center" alt="Me"  src="https://s4.gifyu.com/images/Hi-Im-Badreddine.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/badreddine-mouhassine-6a643719a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
