@@ -1,6 +1,38 @@
 <p align="center">
   <img align="center" alt="Me"  src="https://s4.gifyu.com/images/Hi-Im-Badreddine.gif">
 </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-22-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Morocco%20%26%20Italy-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20French-brightgreen" />
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am MOUHASSINE Badreddine </h1>
+<h3 align="center">Data engineer student | AI & Computer vision enthusiast </h3>
+
+
+
+<p align="center">
+  <em>
+    Hello, I am MOUHASSINE Badreddine a <b>final year</b> Data engineer student <a href="https://insea.ac.ma"> <bNational institute of statistics and applied economics</b>, Rabat, Morocco</a>. <br>
+  </em> 
+  <br>
+</p>
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+✔ I’m currently Developing a Deep few-shot font detector using meta-learning<br>
+✔ I’m currently learning about **Computer vision**<br>
+✔ I’m looking for a final year 6 months internship in **Data engineering/ Data science/ Deep learning/ Machine learning**<br> 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<p align="left">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MOUHASSINE-Badreddine&show_icons=true&locale=en&theme=react" alt="ovi" width="410" /></p>
 <h3> Languages and Tools: </h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
@@ -24,7 +56,7 @@
 
 </div>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=MOUHASSINE-Badreddine&show_icons=true&locale=en&theme=react" alt="ovi" width="410" /></p>
+
 <!--
 **MOUHASSINE-badreddine/MOUHASSINE-Badreddine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="right" alt="Coding" width="400" src="https://gifyu.com/image/SKZPr">
