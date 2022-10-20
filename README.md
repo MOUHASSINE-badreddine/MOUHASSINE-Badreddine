@@ -18,9 +18,10 @@
 
 <p align="center">
   <em>
-    Hello, I am MOUHASSINE Badreddine a <b>final year</b> Data engineer student <a href="https://insea.ac.ma"> <bNational institute of statistics and applied economics</b>, Rabat, Morocco</a>. <br>
+    Hello, I am MOUHASSINE Badreddine a <b>final year</b> Data engineer student <a href="https://insea.ac.ma"> <b> National institute of statistics and applied economics</b>, Rabat, Morocco</a>. <br>
   </em> 
   <br>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MOUHASSINE-Badreddine&show_icons=true&locale=en&theme=react" alt="ovi" width="410" /></p>
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -32,8 +33,7 @@
 ✔ I’m looking for a final year 6 months internship in **Data engineering/ Data science/ Deep learning/ Machine learning**<br> 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MOUHASSINE-Badreddine&show_icons=true&locale=en&theme=react" alt="ovi" width="410" /></p>
-<h3> Languages and Tools: </h3>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"  width="40" height="40"/>&nbsp;
