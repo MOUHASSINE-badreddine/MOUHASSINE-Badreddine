@@ -21,7 +21,7 @@
     Hello, I am MOUHASSINE Badreddine a <b>final year</b> Data engineer student <a href="https://insea.ac.ma"> <b> National institute of statistics and applied economics</b>, Rabat, Morocco</a>. <br>
   </em> 
   <br>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MOUHASSINE-Badreddine&show_icons=true&locale=en&theme=react" alt="ovi" width="410" /></p>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MOUHASSINE-Badreddine&show_icons=true&locale=en&theme=react" alt="ovi" width="410" /></p>
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
